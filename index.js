@@ -15,5 +15,5 @@ autorun(() => {
   console.log('autorun2', data.name)
 })
 
-// data.name = 'bob'
-// data.address.street = 'wener road'
+data.name = 'bob'
+data.address.street = 'wener road'
